@@ -3,7 +3,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-tensorflow
 keras
 # Document handling
 PyPDF2>=2.0.0
@@ -34,3 +33,4 @@ numpy>=1.22.3
 
 # Testing
 pytest>=7.0.0
+
