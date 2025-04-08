@@ -5,3 +5,32 @@ matplotlib
 seaborn
 tensorflow
 keras
+# Document handling
+PyPDF2>=2.0.0
+pdf2image>=1.16.0
+python-docx>=0.8.11
+Pillow>=9.0.0
+
+# OCR
+pytesseract>=0.3.8
+easyocr>=1.6.0
+
+# NLP
+spacy>=3.4.0
+transformers>=4.18.0
+nltk>=3.7
+langdetect>=1.0.9
+
+# Vision
+opencv-python>=4.5.5
+
+# Web framework
+fastapi>=0.75.0
+uvicorn>=0.17.6
+
+# Data processing
+pandas>=1.4.1
+numpy>=1.22.3
+
+# Testing
+pytest>=7.0.0
